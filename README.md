@@ -3,6 +3,6 @@ _________
 
 Architecture MVC en PHP vanilla
 
-[X] gestion des comptes
-[X] gestion des produits
-[X] gestion du panier
+[x] gestion des comptes
+[x] gestion des produits
+[x] gestion du panier
