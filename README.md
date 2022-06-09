@@ -1,4 +1,4 @@
-# tecktronic
+# Tecktronic
 
 Création d'une boutique en ligne de vente de composants éléctronique
 
